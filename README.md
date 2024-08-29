@@ -1,8 +1,8 @@
 #🔪 Serial Block Website
 
-![Serial Block Logo](screenShot/screenshot (1).png)
-![Serial Block Logo](screenShot/screenshot (2).png)
-![Serial Block Logo](screenShot/screenshot (3).png)
+![Serial Block Logo](screenShot/screenshot(1).png)
+![Serial Block Logo](screenShot/screenshot(2).png)
+![Serial Block Logo](screenShot/screenshot(3).png)
 
 A modern, single-page website built with clean design and optimized for performance. Serial Block offers a streamlined user experience with a focus on simplicity and speed.
 
