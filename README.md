@@ -5,6 +5,8 @@
 ![Serial Block Logo](screenShot/screenshot(3).png)
 
 A modern, single-page website built with clean design and optimized for performance. Serial Block offers a streamlined user experience with a focus on simplicity and speed.
+## Demo link
+Live :<a href='https://cipher-soul.github.io/Serial-BlogPage/'a/>
 
 ## Features
 
@@ -13,12 +15,7 @@ A modern, single-page website built with clean design and optimized for performa
 - **Fast Performance**: Lightweight and efficient with minimal load times.
 - **Easy Navigation**: Smooth scrolling and quick access to content sections.
 ## Created using
-  - ** Bootstrap **
-  - ** html5 **
-  - ** css3 **
+  -  Bootstrap 
+  -  html5 
+  -  css3 
 
-### Steps to Install
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/serial-block-website.git
