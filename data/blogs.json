@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Butcher of Shadows: The Tale of Jack the Ripper",
+        "imageUrl": "images/cbsn-deadliest-serial-killers-option1.jpg",
+        "content": "The <i>story</i> of Jack the Ripper, the infamous serial killer who terrorized London in the late 19th century.",
+        "date": "2014-12-05"
+    },
+    {
+        "title": "Silent Stalker: The Horrors of the Night Caller",
+        "imageUrl": "images/AE-Real-Crime-Blog-Jeffrey-Dahmer-Serial-Killers-Murdered-in-Prison-GettyImages-51955467.jpg",
+        "content": "A chilling account of the Night Caller, a serial killer who preyed on unsuspecting victims in the dead of night.",
+        "date": "2014-12-05"
+    },
+    {
+        "title": "The Monster Next Door: The Secrets of Jeffrey Dahmer",
+        "imageUrl": "images/no-image.png",
+        "content": "An in-depth look at Jeffrey Dahmer, the notorious serial killer who lived among us.",
+        "date": "2014-12-05"
+    },
+    {
+        "title": "The Highwayman of Death: Ted Bundy's Final Drive",
+        "imageUrl": "images/rob-griffin-b6G2P4C-0bY-unsplash.jpg",
+        "content": "The final days of Ted Bundy, one of America's most infamous serial killers.",
+        "date": "2014-12-05"
+    },
+    {
+        "title": "The Angel of Death: Behind the Mask of Harold Shipman",
+        "imageUrl": "images/rob-griffin-b6G2P4C-0bY-unsplash.jpg",
+        "content": "The story of Harold Shipman, a doctor who turned into one of the most prolific serial killers in history.",
+        "date": "2014-12-05"
+    },
+    {
+        "title": "Blood in the Bayou: The Legend of the Axeman of New Orleans",
+        "imageUrl": "images/hamed-mohtashami-pouya-0-INtpAVg70-unsplash.jpg",
+        "content": "The legend of the Axeman of New Orleans, a serial killer who terrorized the city in the early 20th century.",
+        "date": "2014-12-05"
+    }
+]

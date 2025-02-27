@@ -1,0 +1,1854 @@
+{
+    "total": 1049,
+    "items": [
+        {
+            "poster_classification": "information",
+            "reward_max": 0,
+            "weight": null,
+            "hair_raw": null,
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "WISCONSIN FAMILY ACTION ARSON",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": null,
+            "url": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson",
+            "eyes_raw": null,
+            "age_min": null,
+            "build": null,
+            "weight_min": null,
+            "details": "\u003Cp\u003EThe Federal Bureau of Investigation’s Milwaukee Field Office is asking for the public’s help in identifying the individual(s) responsible for an arson at the Wisconsin Family Action executive office, located at 2801 International Lane, Madison, Wisconsin. On May 8, 2022, at approximately 6:00 a.m., the Madison Wisconsin Police and Fire Departments were dispatched to the Wisconsin Family Action executive office for a fire. Upon arrival, the fire was quickly extinguished, and no injuries were reported. Subsequent investigation revealed two Molotov cocktails were thrown into the office. An exterior search of the office building revealed graffiti written on the exterior of the building near a broken window that stated, \"If abortions aren't safe then you aren't either.\" Additional graffiti was written adjacent to the first that included the anarchist \"A\" and the numbers \"1312.\"\u003C/p\u003E\r\n\u003Cp\u003EOne individual has been sentenced in this matter, however, law enforcement continues to seek further information regarding additional suspects. \u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "race": null,
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "milwaukee"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "c28cfe0a974b42b5bd9d45173cefcefd",
+            "race_raw": null,
+            "legat_names": null,
+            "ncic": null,
+            "sex": null,
+            "subjects": [
+                "Seeking Information"
+            ],
+            "languages": null,
+            "weight_max": null,
+            "scars_and_marks": null,
+            "modified": "2025-02-26T17:06:31+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/seeking-info/wisconsin-family-action-arson",
+            "coordinates": [],
+            "hair": null,
+            "possible_countries": null,
+            "publication": "2023-01-09T09:57:00",
+            "nationality": null,
+            "eyes": null,
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/photo_2.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/photo_2.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/wisconsin-family-action-arson/photo_2.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Madison, Wisconsin\r\nMay 8, 2022",
+            "reward_text": "The FBI is offering a reward of up to $25,000 for information leading to the identification, arrest, and conviction of the suspect(s) responsible for this crime.",
+            "aliases": null,
+            "height_max": null,
+            "remarks": null,
+            "caution": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/c28cfe0a974b42b5bd9d45173cefcefd"
+        },
+        {
+            "poster_classification": "ten",
+            "reward_max": 0,
+            "weight": "175 pounds",
+            "hair_raw": null,
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "FRANCISCO JAVIER ROMAN-BARDALES",
+            "complexion": null,
+            "place_of_birth": "Ahuachapan, El Salvador",
+            "height_min": 65,
+            "url": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales",
+            "eyes_raw": null,
+            "age_min": null,
+            "build": null,
+            "weight_min": 175,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "newyork"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales/bardalestoptenspanish.pdf/@@download/file/bardalestoptenSpanish.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "e0fd2abbd35843fb8d0757cda1da3180",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": null,
+            "sex": "Male",
+            "subjects": [
+                "Ten Most Wanted Fugitives"
+            ],
+            "languages": [
+                "Spanish"
+            ],
+            "weight_max": 175,
+            "scars_and_marks": null,
+            "modified": "2025-02-24T18:22:21+00:00",
+            "dates_of_birth_used": [
+                "December 2, 1977"
+            ],
+            "path": "/wanted/topten/francisco-javier-roman-bardales",
+            "coordinates": [],
+            "hair": null,
+            "possible_countries": null,
+            "publication": "2022-10-12T06:49:00",
+            "nationality": "Salvadoran",
+            "eyes": null,
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/topten/francisco-javier-roman-bardales/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "description": "Conspiracy to Provide and Conceal Material Support and Resources to Terrorists; Narco-Terrorism Conspiracy; Racketeering Conspiracy; Alien Smuggling Conspiracy",
+            "reward_text": "The FBI is offering a reward of up to $250,000 for information leading to the arrest of Francisco Javier Roman-Bardales.",
+            "aliases": [
+                "\"Veterano de Tribus\""
+            ],
+            "height_max": 65,
+            "remarks": null,
+            "caution": "\u003Cp\u003EFrancisco Javier Roman-Bardales is wanted for his alleged involvement in the direction of MS-13 activity in the United States, Mexico, and El Salvador.  He is alleged to be a senior leader of MS-13.  Roman-Bardales has been charged with several offenses for his alleged role in ordering numerous acts of violence against civilians and rival gang members, as well as his role in drug distribution and extortion schemes in the United States and El Salvador.  A federal arrest warrant was issued for Roman-Bardales in the United States District Court, Eastern District of New York, Central Islip, New York, on September 22, 2022, after he was charged with Conspiracy to Provide and Conceal Material Support and Resources to Terrorists; Narco-Terrorism Conspiracy; Racketeering Conspiracy; and Alien Smuggling Conspiracy.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/e0fd2abbd35843fb8d0757cda1da3180"
+        },
+        {
+            "poster_classification": "default",
+            "reward_max": 0,
+            "weight": null,
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "PAK JIN-SONG",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": null,
+            "url": "https://www.fbi.gov/wanted/cyber/pak-jin-song",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": null,
+            "details": null,
+            "race": "asian",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "miami"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cyber/pak-jin-song/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "51c0db5e0a8d46559efcef2cb0d50edd",
+            "race_raw": "Asian",
+            "legat_names": null,
+            "ncic": null,
+            "sex": "Male",
+            "subjects": [
+                "Cyber's Most Wanted"
+            ],
+            "languages": null,
+            "weight_max": null,
+            "scars_and_marks": null,
+            "modified": "2025-02-21T13:05:39+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/cyber/pak-jin-song",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2025-02-03T11:20:00",
+            "nationality": "North Korean",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cyber/pak-jin-song/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cyber/pak-jin-song/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cyber/pak-jin-song/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False\r\nIdentification Documents; Conspiracy to Violate the International Emergency Economic Powers Act",
+            "reward_text": null,
+            "aliases": [
+                "Glaus Li"
+            ],
+            "height_max": null,
+            "remarks": null,
+            "caution": "\u003Cp\u003EPak Jin-Song is wanted for his alleged involvement in a fraudulent scheme to obtain remote information technology (IT) work with U.S. companies that generated revenue for the Democratic People's Republic of Korea (DPRK). It is alleged that from approximately April 2018 through August 2024, Pak Jin-Song and others obtained work from at least sixty-four U.S. companies. Payments from ten of those companies generated at least $866,255 in revenue, most of which was then laundered through a Chinese bank account.\u003Cbr /\u003E\u003Cbr /\u003E\u003C/p\u003E\r\n\u003Cp\u003EPak Jin-Song and others allegedly used forged and stolen identity documents, including U.S. passports containing the stolen personally identifiable information of a U.S. person, to conceal their true identities so that these North Korean nationals could circumvent sanctions and other laws to obtain employment with U.S. companies. It is further alleged that these individuals conspired to launder payments for the remote IT work through a variety of accounts designed to promote the scheme and conceal its proceeds.\u003Cbr /\u003E\u003Cbr /\u003E\u003C/p\u003E\r\n\u003Cp\u003EOn January 21, 2025, a federal arrest warrant was issued for Pak Jin-Song in the United States District Court for the Southern District of Florida, Miami, Florida, after he was charged with Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False Identification Documents; and Conspiracy to Violate the International Emergency Economic Powers Act.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/51c0db5e0a8d46559efcef2cb0d50edd"
+        },
+        {
+            "poster_classification": "default",
+            "reward_max": 0,
+            "weight": null,
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "JIN SUNG-IL",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": null,
+            "url": "https://www.fbi.gov/wanted/cyber/jin-sung-il",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": null,
+            "details": null,
+            "race": "asian",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "miami"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cyber/jin-sung-il/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "b8fa10a540cb48408d271e4fed6785ac",
+            "race_raw": "Asian",
+            "legat_names": null,
+            "ncic": null,
+            "sex": "Male",
+            "subjects": [
+                "Cyber's Most Wanted"
+            ],
+            "languages": null,
+            "weight_max": null,
+            "scars_and_marks": null,
+            "modified": "2025-02-21T13:04:45+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/cyber/jin-sung-il",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2025-02-03T08:11:00",
+            "nationality": "North Korean",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cyber/jin-sung-il/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cyber/jin-sung-il/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cyber/jin-sung-il/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False \r\nIdentification Documents; Conspiracy to Violate the International Emergency Economic Powers Act",
+            "reward_text": null,
+            "aliases": [
+                "Jin Song-Il",
+                "Richard Stewart",
+                "Pedro Alonso",
+                "Pedro Alonso de los Reyes",
+                "Stewart Conn"
+            ],
+            "height_max": null,
+            "remarks": null,
+            "caution": "\u003Cp\u003EJin Sung-Il is wanted for his alleged involvement in a fraudulent scheme to obtain remote information technology (IT) work with U.S. companies that generated revenue for the Democratic People's Republic of Korea (DPRK). It is alleged that from approximately April 2018 through August 2024, Jin Sung-Il and others obtained work from at least sixty-four U.S. companies. Payments from ten of those companies generated at least $866,255 in revenue, most of which was then laundered through a Chinese bank account.\u003Cbr /\u003E\u003Cbr /\u003E\u003C/p\u003E\r\n\u003Cp\u003EJin Sung-Il and others allegedly used forged and stolen identity documents, including U.S. passports containing the stolen personally identifiable information of a U.S. person, to conceal their true identities so that these North Korean nationals could circumvent sanctions and other laws to obtain employment with U.S. companies. It is further alleged that these individuals conspired to launder payments for the remote IT work through a variety of accounts designed to promote the scheme and conceal its proceeds.\u003Cbr /\u003E\u003Cbr /\u003E\u003C/p\u003E\r\n\u003Cp\u003EOn January 21, 2025, a federal arrest warrant was issued for Jin Sung-Il in the United States District Court for the Southern District of Florida, Miami, Florida, after he was charged with Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False Identification Documents; and Conspiracy to Violate the International Emergency Economic Powers Act.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/b8fa10a540cb48408d271e4fed6785ac"
+        },
+        {
+            "poster_classification": "default",
+            "reward_max": 0,
+            "weight": null,
+            "hair_raw": null,
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "DPRK IT FRAUD",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": null,
+            "url": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud",
+            "eyes_raw": null,
+            "age_min": null,
+            "build": null,
+            "weight_min": null,
+            "details": null,
+            "race": null,
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "miami"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "04da8eecb6054f28bc8318e2a7ca131c",
+            "race_raw": null,
+            "legat_names": null,
+            "ncic": null,
+            "sex": null,
+            "subjects": [
+                "Cyber's Most Wanted"
+            ],
+            "languages": null,
+            "weight_max": null,
+            "scars_and_marks": null,
+            "modified": "2025-02-21T13:00:01+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/cyber/dprk-it-fraud",
+            "coordinates": [],
+            "hair": null,
+            "possible_countries": null,
+            "publication": "2025-02-11T14:15:00",
+            "nationality": null,
+            "eyes": null,
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/jin-sungil.jpeg",
+                    "large": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/jin-sungil.jpeg/@@images/image/large",
+                    "caption": "Jin Sung-Il",
+                    "thumb": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/jin-sungil.jpeg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/pak-jin-song.jpeg",
+                    "large": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/pak-jin-song.jpeg/@@images/image/large",
+                    "caption": "Pak Jin-Song",
+                    "thumb": "https://www.fbi.gov/wanted/cyber/dprk-it-fraud/pak-jin-song.jpeg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False\r\nIdentification Documents; Conspiracy to Violate the International Emergency Economic Powers Act",
+            "reward_text": null,
+            "aliases": null,
+            "height_max": null,
+            "remarks": null,
+            "caution": "\u003Cp\u003E\u003Ca data-val=\"https://www.fbi.gov/wanted/cyber/jin-sung-il\" href=\"https://www.fbi.gov/wanted/cyber/jin-sung-il\" data-urltype=\"/view\" data-linktype=\"external\"\u003EJin Sung-Il \u003C/a\u003Eand \u003Ca data-val=\"https://www.fbi.gov/wanted/cyber/pak-jin-song\" href=\"https://www.fbi.gov/wanted/cyber/pak-jin-song\" data-urltype=\"/view\" data-linktype=\"external\"\u003EPak Jin-Song\u003C/a\u003E are wanted for their alleged involvement in a fraudulent scheme to obtain remote information technology (IT) work with U.S. companies that generated revenue for the Democratic People's Republic of Korea (DPRK). It is alleged that from approximately April 2018 through August 2024, Jin Sung-Il, Pak Jin-Song, and others obtained work from at least sixty-four U.S. companies. Payments from ten of those companies generated at least $866,255 in revenue, most of which was then laundered through a Chinese bank account.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EJin Sung-Il, Pak Jin-Song, and others allegedly used forged and stolen identity documents, including U.S. passports containing the stolen personally identifiable information of a U.S. person, to conceal their true identities so that these North Korean nationals could circumvent sanctions and other laws to obtain employment with U.S. companies. It is further alleged that these individuals conspired to launder payments for the remote IT work through a variety of accounts designed to promote the scheme and conceal its proceeds.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EOn January 21, 2025, federal arrest warrants were issued for each of the men in the United States District Court for the Southern District of Florida, Miami, Florida, after they were charged with Conspiracy to Damage a Protected Computer; Conspiracy to Commit Wire Fraud and Mail Fraud; Conspiracy to Commit Money Laundering; Conspiracy to Transfer False Identification Documents; and Conspiracy to Violate the International Emergency Economic Powers Act.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/04da8eecb6054f28bc8318e2a7ca131c"
+        },
+        {
+            "poster_classification": "default",
+            "reward_max": 0,
+            "weight": "110 pounds",
+            "hair_raw": "Brown, Curly",
+            "age_range": "24 years old at time of disappearance",
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "DAWN MARIE MOZINO - BRYN MAWR, PENNSYLVANIA",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": 58,
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania",
+            "eyes_raw": "Brown",
+            "age_min": 24,
+            "build": null,
+            "weight_min": 110,
+            "details": "\u003Cp\u003EOn May 22, 1989, Dawn Marie Mozino was last seen at the bus stop near Bryn Mawr Hospital, where she worked in food services.  Mozino never arrived home after her shift.  Mozino is learning disabled, with a mental capacity of a 13-year-old person.  She was last seen wearing a gray skirt, maroon vest, white shirt, and black bow tie.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": null,
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania/vicap-alert-2020-05-03_missing-person_dawn-mozino-public.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "6821fa45714045a186f52c84db67ae72",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": null,
+            "sex": "Female",
+            "subjects": [
+                "ViCAP Missing Persons"
+            ],
+            "languages": null,
+            "weight_max": 110,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:35:20+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania",
+            "coordinates": [],
+            "hair": "brown",
+            "possible_countries": null,
+            "publication": "2020-05-13T13:45:00",
+            "nationality": null,
+            "eyes": "brown",
+            "age_max": 24,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/dawn-marie-mozino---bryn-mawr-pennsylvania/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Bryn Mawr, Pennsylvania\r\nMay 22, 1989",
+            "reward_text": null,
+            "aliases": null,
+            "height_max": 58,
+            "remarks": null,
+            "caution": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/6821fa45714045a186f52c84db67ae72"
+        },
+        {
+            "poster_classification": "information",
+            "reward_max": 0,
+            "weight": null,
+            "hair_raw": null,
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "HATE CRIME",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": null,
+            "url": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1",
+            "eyes_raw": null,
+            "age_min": null,
+            "build": null,
+            "weight_min": null,
+            "details": "\u003Cp\u003EThe Federal Bureau of Investigation’s St. Louis Field Office is seeking the public’s assistance in identifying an individual who violently attacked a victim on a city bus. The assault happened on Thursday, April 13, 2023, at approximately 3:30 p.m.  The unknown suspect boarded a MetroBus at Chippewa Street and Grand Boulevard in the northern edge of the Dutchtown neighborhood in St. Louis, Missouri.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EThe surveillance video shows the unknown suspect taking a seat in the rear of the bus and then start talking with the victim who was already on the bus. Minutes later, the unknown suspect got up from his seat, and started kicking and punching the victim almost two dozen times. Before the attack ended, the unknown suspect pointed a gun at the victim.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "race": null,
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "stlouis"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "61c5a33e9dc34b07b3b3c4170e3300db",
+            "race_raw": null,
+            "legat_names": null,
+            "ncic": null,
+            "sex": null,
+            "subjects": [
+                "Seeking Information"
+            ],
+            "languages": null,
+            "weight_max": null,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:19:44+00:00",
+            "dates_of_birth_used": null,
+            "path": "/wanted/seeking-info/hate-crime-1",
+            "coordinates": [],
+            "hair": null,
+            "possible_countries": null,
+            "publication": "2023-11-28T11:52:00",
+            "nationality": null,
+            "eyes": null,
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub2.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub2.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub3.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub3.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub3.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsubscar.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsubscar.jpg/@@images/image/large",
+                    "caption": "Photograph of scar on right forearm",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsubscar.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub4.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub4.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub4.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub5.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub5.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub5.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub6.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub6.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub6.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub7.jpg",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub7.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/hate-crime-1/unsub7.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "description": "Unknown Suspect\r\nSt. Louis, Missouri\r\nApril 13, 2023",
+            "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the identification and arrest of this unknown suspect.",
+            "aliases": null,
+            "height_max": null,
+            "remarks": "\u003Cp\u003EThe unknown suspect is described as a Black male, possibly in his 30s, with an average build. He may have a long scar along his right forearm. The suspect was wearing a neon yellow t-shirt with a dark-colored emblem on the left chest pocket, khaki pants, dark sunglasses, a black beanie cap, and black shoes with white soles. He was also carrying a dark-colored crossbody bag with frayed edges.\u003C/p\u003E",
+            "caution": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/61c5a33e9dc34b07b3b3c4170e3300db"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "150 pounds",
+            "hair_raw": "Gray",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "REX C. REICHERT",
+            "complexion": null,
+            "place_of_birth": "Ohio",
+            "height_min": 70,
+            "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert",
+            "eyes_raw": "Gray",
+            "age_min": null,
+            "build": null,
+            "weight_min": 150,
+            "details": null,
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Reichert has been employed as a technician in a recording studio.  He also has operated an amusement arcade and invented a board game that was sold commercially."
+            ],
+            "field_offices": [
+                "philadelphia"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-NY",
+                "US-OH",
+                "US-PA",
+                "US-VT"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/rex-c-reichert-en-espanol.pdf/@@download/file/Rex C Reichert EN ESPAÑOL.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "e7fd1bd61315342b4b7e1cde93fc4c80",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": "W687345809",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 150,
+            "scars_and_marks": "None known",
+            "modified": "2025-02-20T19:14:21+00:00",
+            "dates_of_birth_used": [
+                "September 16, 1945"
+            ],
+            "path": "/wanted/cac/rex-c.-reichert",
+            "coordinates": [],
+            "hair": "gray",
+            "possible_countries": [
+                "CAN",
+                "USA"
+            ],
+            "publication": "2010-08-27T17:00:00",
+            "nationality": "American",
+            "eyes": null,
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image/large",
+                    "caption": "Photograph taken in 1984",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 1963",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_r1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg/@@images/image/large",
+                    "caption": "Photograph age progressed in 2018",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichertage2018.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg/@@images/image/large",
+                    "caption": "Photograph age enhanced in 2011",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg/@@images/image/large",
+                    "caption": "Photograph age enhanced in 2011",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rage1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg/@@images/image/large",
+                    "caption": "Photograph age enhanced in 2006",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rex-c.-reichert/reichert_rcage1.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight to Avoid Prosecution - Criminal Attempt With Intent to Commit the Crime of Involuntary Deviate Sexual Intercourse, Criminal Solicitation With the Intent of Promoting or Facilitating the Commissions of the Crime of Involuntary Sexual Intercourse, Indecent Assault, Corruption of a Minor, Endangering the Welfare of Children",
+            "reward_text": "The FBI is offering a reward for information leading to the arrest of Rex C. Reichert.",
+            "aliases": null,
+            "height_max": 70,
+            "remarks": "\u003Cp\u003EReichert is skilled in electronics, specifically musical equipment. He has been known to wear wire-rimmed glasses and have his hair in a ponytail. Reichert may travel to Pennsylvania, New York, Vermont, Canada, and Europe.\u003C/p\u003E",
+            "caution": "\u003Cp\u003ERex C. Reichert is wanted for the alleged sexual abuse of two juvenile males, ages fourteen and ten, over a two-year period at his apartment in Collegeville, Pennsylvania. Reichert had cared for the boys while a relative was receiving medical treatment. The boys also visited him on weekends and accompanied him on camping trips. On September 28, 1990, Reichert was charged with criminal attempt with intent to commit the crime of involuntary deviate sexual intercourse, criminal solicitation with the intent of promoting or facilitating the commissions of the crime of involuntary sexual intercourse, indecent assault, corruption of a minor, and endangering the welfare of children by the Collegeville Police Department, Collegeville, Pennsylvania, and a state warrant was issued for his arrest. On March 31, 1992, a federal arrest warrant was obtained for Reichert after he was charged with unlawful flight to avoid prosecution in the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/e7fd1bd61315342b4b7e1cde93fc4c80"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "180 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "WILLIAM WILLINGHAM",
+            "complexion": null,
+            "place_of_birth": "Memphis, Tennessee",
+            "height_min": 73,
+            "url": "https://www.fbi.gov/wanted/cac/william-willingham",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 180,
+            "details": null,
+            "race": "black",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Welder",
+                "Tractor driver"
+            ],
+            "field_offices": [
+                "jackson"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/william-willingham/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "69a2d14f2c8b6e610996356e371f05c2",
+            "race_raw": "Black",
+            "legat_names": null,
+            "ncic": "W521290111",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 180,
+            "scars_and_marks": "Willingham has the following tattoos on his left forearm: the word GEMINI; a circle with a symbol inside; and a circle with a cross inside.  He also has two unidentified tattoos on his left bicep.",
+            "modified": "2025-02-20T19:14:20+00:00",
+            "dates_of_birth_used": [
+                "June 21, 1961"
+            ],
+            "path": "/wanted/cac/william-willingham",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2010-08-27T16:10:00",
+            "nationality": "American",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cac/william-willingham/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/william-willingham/willingham1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/william-willingham/willingham1.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/william-willingham/willingham1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/william-willingham/willinghamaged.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/william-willingham/willinghamaged.jpg/@@images/image/large",
+                    "caption": "Photograph Age-Progressed to 60 Years Old",
+                    "thumb": "https://www.fbi.gov/wanted/cac/william-willingham/willinghamaged.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "description": "Unlawful Flight to Avoid Prosecution - Kidnapping, Rape",
+            "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of William Willingham.",
+            "aliases": null,
+            "height_max": 73,
+            "remarks": "\u003Cp\u003EWillingham has ties to Memphis, Tennessee. He may travel to Arkansas and Alabama. He reportedly is a heavy drinker and uses drugs. He is known to carry a 12-inch knife.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EWilliam Willingham is wanted for kidnapping and rape in Tate County, Mississippi. On December 22, 1998, Willingham is alleged to have tied up his girlfriend in her bedroom at her residence, and proceeded to the next room to rape her daughter. Willingham's girlfriend managed to free herself and went to the aid of her daughter. However, Willingham allegedly brandished a knife and forced his girlfriend back into her room. He then returned to the room of his girlfriend's daughter and allegedly continued to rape her. Willingham soon fled the residence.  On March 4, 1999, Willingham was indicted by a Tate County, Mississippi Grand Jury for statutory rape and kidnapping. A federal arrest warrant was subsequently issued after Willingham was charged with unlawful flight to avoid prosecution.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/69a2d14f2c8b6e610996356e371f05c2"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "155 to 165 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "JUAN NAJERA QUEZADA",
+            "complexion": null,
+            "place_of_birth": "Mexico",
+            "height_min": 60,
+            "url": "https://www.fbi.gov/wanted/cac/juan-najera-quezada",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 155,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Quezada previously worked in landscaping."
+            ],
+            "field_offices": [
+                "chicago"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "a075d4d5-2fb2-41f9-9f1a-2184c3eae013",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": "W914441557",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 165,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:14:16+00:00",
+            "dates_of_birth_used": [
+                "July 11, 1958"
+            ],
+            "path": "/wanted/cac/juan-najera-quezada",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2014-04-28T07:00:00",
+            "nationality": "Mexican",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image/large",
+                    "caption": "Photograph taken in 2007",
+                    "thumb": "https://www.fbi.gov/wanted/cac/juan-najera-quezada/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "description": "Unlawful Flight to Avoid Prosecution - Aggravated Criminal Sexual Abuse of a Child",
+            "reward_text": null,
+            "aliases": [
+                "Juan Quezada"
+            ],
+            "height_max": 64,
+            "remarks": "\u003Cp\u003EQuezada previously lived in Chicago, Illinois, and may have ties to Northwest Indiana and Mexico.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EJuan Najera Quezada is being sought for his alleged involvement in the sexual abuse of a six-year-old female in Chicago, Illinois in June of 2007.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EIn August of 2007, Quezada was arrested by Chicago Police Department officers after he was identified as having sexually assaulted the child, who lived in the same apartment building as him. At the time of the incident, Quezada resided with a woman who ran a daycare service out of the home. Quezada failed to appear following his release on bond from the arrest, and is also being sought for questioning in connection with the sexual assault of another child while out on bond.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EQuezada was charged with aggravated criminal sexual abuse of a child by the Circuit Court of Cook County, Illinois, and a state warrant was issued for his arrest on September 30, 2008. On February 9, 2012, Quezada was charged in the United States District Court, Northern District of Illinois, Eastern Division, Chicago, Illinois, with unlawful flight to avoid prosecution and a warrant was issued for his arrest.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/a075d4d5-2fb2-41f9-9f1a-2184c3eae013"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "145 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "FRANTZ DIEUDONNE",
+            "complexion": null,
+            "place_of_birth": "Haiti",
+            "height_min": 67,
+            "url": "https://www.fbi.gov/wanted/cac/frantz-dieudonne",
+            "eyes_raw": "Black",
+            "age_min": null,
+            "build": null,
+            "weight_min": 145,
+            "details": null,
+            "race": "black",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Chemist",
+                "Nursing assistant"
+            ],
+            "field_offices": [
+                "chicago"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-IL",
+                "US-NJ",
+                "US-PA",
+                "US-UT"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "b6f4a0d0b139af53634cdb959663c907",
+            "race_raw": "Black",
+            "legat_names": null,
+            "ncic": "W884856637",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 145,
+            "scars_and_marks": "Dieudonne has a scar on his right wrist.",
+            "modified": "2025-02-20T19:14:15+00:00",
+            "dates_of_birth_used": [
+                "June 20, 1969"
+            ],
+            "path": "/wanted/cac/frantz-dieudonne",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": [
+                "HTI",
+                "JEY"
+            ],
+            "publication": "2010-08-27T17:55:00",
+            "nationality": "Haitian",
+            "eyes": "black",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/@@images/image/large",
+                    "caption": "Photograph taken in 2002",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne1.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 2002",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-2.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 2002 - Scar on wrist",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-3.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-3.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 2002",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne-3.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/diedonne1a.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/diedonne1a.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/diedonne1a.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne2a.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne2a.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/frantz-dieudonne/dieudonne2a.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Transporting a Minor in Interstate Commerce With the Intent to Engage in Sexual Activity; Traveling in Interstate Commerce With the Intent to Engage in Sex With a Minor; Failure to Appear",
+            "reward_text": null,
+            "aliases": null,
+            "height_max": 67,
+            "remarks": "\u003Cp\u003EDieudonne has ties to New Jersey, Pennsylvania, and Utah.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EFrantz Dieudonne is being sought for his alleged involvement in sex-related crimes with a minor, after being indicted in Illinois on October 1, 2002, and in Utah on February 26, 2003. From November of 2001 through May of 2002, Dieudonne allegedly traveled across state lines from Pennsylvania to Utah to engage in sex with a 15-year-old minor. On June 1, 2002, Dieudonne was arrested in North Aurora, Illinois, for allegedly transporting a minor in interstate commerce with the intent to engage in sex and was released on bond one week later. Dieudonne was scheduled for a pre-trial motion on September 22, 2003, in the Northern District of Illinois, but he failed to appear, and a bench warrant was issued for his arrest. Dieudonne also failed to appear for trials, which were scheduled for October 20, 2003, in Salt Lake City, Utah, and November 3, 2003, in Chicago, Illinois.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/b6f4a0d0b139af53634cdb959663c907"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "170 pounds",
+            "hair_raw": "Brown",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "JEROLD C. DUNNING",
+            "complexion": null,
+            "place_of_birth": "Michigan, USA",
+            "height_min": 67,
+            "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 170,
+            "details": null,
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Ship/Boat Builder"
+            ],
+            "field_offices": [
+                "tampa"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-FL",
+                "US-MI",
+                "US-TN"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/jerold-c-dunning-em-portugues.pdf/@@download/file/Jerold C. Dunning EM PORTUGUÊS.pdf",
+                    "name": "EM PORTUGUS"
+                }
+            ],
+            "uid": "4bbf5d2e5f760a9d24e6ba8d97a04450",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": "W057145730",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 170,
+            "scars_and_marks": "Dunning has a scar above his left eye.",
+            "modified": "2025-02-20T19:14:13+00:00",
+            "dates_of_birth_used": [
+                "December 7, 1959"
+            ],
+            "path": "/wanted/cac/jerold-c.-dunning",
+            "coordinates": [],
+            "hair": "brown",
+            "possible_countries": [
+                "USA"
+            ],
+            "publication": "2010-08-27T21:55:00",
+            "nationality": "American",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image/large",
+                    "caption": "Photograph taken in 1998",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 1998",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 1998",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc3.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 1995",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jerold-c.-dunning/dunning_jc4.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight To Avoid Prosecution - Lewd And Lascivious Behavior On A Child; Failure To Appear",
+            "reward_text": null,
+            "aliases": [
+                "Jerold Chester Dunning",
+                "Chester Dunning",
+                "Jerry Dunning",
+                "C. J. Dunning",
+                "J. R. Dunning",
+                "Junior Dunning",
+                "Jerold Chester Dunning, Jr."
+            ],
+            "height_max": 67,
+            "remarks": "\u003Cp\u003EDunning is known to have experience working with fiberglass used for building boats. Dunning enjoys outdoor activities such as, four wheeling, camping, fishing, and skiing (water/snow). He owns several guns for recreational purposes. He reportedly has never been violent. Dunning has ties to Florida and Tennessee. Dunning may have fled from the United States to Brazil.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EJerold C. Dunning is wanted for his alleged involvement in lewd activities with a child under the age of 16, in St. Petersburg, Florida from 1996 to 1998. Dunning was arrested on October 14, 1998, and subsequently released on bond. His trial was scheduled for June 29, 1999, but he failed to appear in court.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E\r\n\u003Cp\u003EDunning was charged with lewd and lascivious behavior upon a child, and a state warrant was issued for his arrest by the Circuit Court, Pinnellas County, Florida, on June 29, 1999. A federal arrest warrant was subsequently issued for Dunning by the United States District Court, Middle District of Florida, after he was charged federally with unlawful flight to avoid prosecution.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/4bbf5d2e5f760a9d24e6ba8d97a04450"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "Approximately 180 pounds",
+            "hair_raw": "Brown (mostly bald)",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "GREGORY ROBERT WHITEHEAD",
+            "complexion": null,
+            "place_of_birth": "California",
+            "height_min": 74,
+            "url": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead",
+            "eyes_raw": "Blue",
+            "age_min": null,
+            "build": null,
+            "weight_min": 180,
+            "details": null,
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "denver"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/whiteheadspanish.pdf/@@download/file/whiteheadSpanish.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "3d02cd87-23c6-4cd3-8610-7b245ac2659c",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": "W624673159",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 180,
+            "scars_and_marks": "Whitehead has scars on his left finger and abdomen.",
+            "modified": "2025-02-20T19:14:13+00:00",
+            "dates_of_birth_used": [
+                "May 18, 1962"
+            ],
+            "path": "/wanted/cac/gregory-robert-whitehead",
+            "coordinates": [],
+            "hair": "brown",
+            "possible_countries": null,
+            "publication": "2015-02-09T07:00:00",
+            "nationality": "American",
+            "eyes": "blue",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/@@images/image/large",
+                    "caption": "Photograph taken in 2007",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/whitehead_g-2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/whitehead_g-2.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 2007",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-robert-whitehead/whitehead_g-2.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight to Avoid Prosecution - Sexual Exploitation of  Children; Soliciting for Child Prostitution; Inducement of Child Prostitution; Criminal Attempt to Commit Sexual Assault; Sexual Assault (Failure to Appear)",
+            "reward_text": null,
+            "aliases": [
+                "Greg Whitehead"
+            ],
+            "height_max": 74,
+            "remarks": "\u003Cp\u003EWhitehead may wear contact lenses or glasses.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EIn October of 2007, Gregory Whitehead allegedly lured two young girls to his home under the ruse of using them for housecleaning services. It was reported to the Colorado Springs Police Department that two teenage girls were sexually assaulted by Whitehead. While at his Denver home, Whitehead allegedly served the girls alcohol, took nude and graphic photos of them, and paid them for their sexual favors.\u003C/p\u003E\r\n\u003Cp\u003EWhitehead was arrested in Colorado Springs, Colorado, for the following crimes: sexual exploitation of children; soliciting for child prostitution; inducement of child prostitution; criminal attempt to commit sexual assault; and sexual assault. On January 4, 2008, Whitehead failed to appear at a hearing and the state district court issued a failure to appear warrant for his arrest. On June 26, 2008, Whitehead was charged federally with unlawful flight to avoid prosecution by the United States District Court, District of Colorado, and a federal warrant was issued for his arrest.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/3d02cd87-23c6-4cd3-8610-7b245ac2659c"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "200 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "GERARDO CRUZ-HERNANDEZ",
+            "complexion": null,
+            "place_of_birth": "Mexico",
+            "height_min": 71,
+            "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 200,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "philadelphia"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/gerardo-cruz-hernandez-en-espanol.pdf/@@download/file/Gerardo Cruz Hernandez EN ESPAÑOL.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "00ca8f1d-bf53-4cc5-816d-ffcd77c2ab32",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": "W972765319",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 200,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:14:12+00:00",
+            "dates_of_birth_used": [
+                "November 22, 1983",
+                "November 22, 1987"
+            ],
+            "path": "/wanted/cac/gerardo-cruz-hernandez",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2015-02-23T07:00:00",
+            "nationality": "Mexican",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cac/gerardo-cruz-hernandez/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight to Avoid Prosecution – Forcible Rape, Rape of a Child, Statutory Sexual Assault, Involuntary Deviate Sexual Intercourse, Unlawful Contact with a Minor, Indecent Assault, Simple Assault, Recklessly Endangering Another Person, Terroristic Threats, Corruption of Minors",
+            "reward_text": null,
+            "aliases": [
+                "Gerardo Cruz Hernandez",
+                "Gerardo H. Cruz",
+                "Gerardo Hernandez-Cruz"
+            ],
+            "height_max": 71,
+            "remarks": "\u003Cp\u003ECruz-Hernandez has ties, and may have fled, to Mexico.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EGerardo Cruz-Hernandez is wanted for the alleged sexual assault of a female victim from 2011 to 2014 while she was between the ages of 12 and 15.\u003C/p\u003E\r\n\u003Cp\u003E\u003Cbr /\u003E\u003Cbr /\u003EA state arrest warrant was issued for Cruz-Hernandez by the Commonwealth of Pennsylvania, County of Montgomery, Norristown, Pennsylvania, on January 17, 2014, after he was charged with multiple counts of forcible rape, rape of a child, statutory sexual assault, involuntary deviate sexual intercourse, unlawful contact with a minor, indecent assault, simple assault, recklessly endangering another person, terroristic threats, and corruption of minors. A federal arrest warrant was issued by the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania, on January 28, 2015, after Cruz-Hernandez was charged with unlawful flight to avoid prosecution.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/00ca8f1d-bf53-4cc5-816d-ffcd77c2ab32"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "Approximately 150 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "GERARDO BELTRAN",
+            "complexion": null,
+            "place_of_birth": "Mexico",
+            "height_min": 67,
+            "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 150,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Beltran has previously held a position as a Catholic priest."
+            ],
+            "field_offices": [
+                "sacramento"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/gerardo-beltran/gerardo-beltran-en-espanol.pdf/@@download/file/Gerardo Beltran EN ESPAÑOL.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "683e345f-ea25-4df0-ba7e-21a7b3b1e01f",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": "W267747279",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 150,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:14:12+00:00",
+            "dates_of_birth_used": [
+                "January 16, 1957"
+            ],
+            "path": "/wanted/cac/gerardo-beltran",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2015-03-13T07:00:00",
+            "nationality": "Mexican",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image/large",
+                    "caption": "Photograph taken in 1991",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gerardo-beltran/beltran4.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight to Avoid Prosecution – Lewd and Lascivious Act with a Child Under Fourteen",
+            "reward_text": null,
+            "aliases": [
+                "Gerardo Beltran Rico",
+                "Gerardo Rico"
+            ],
+            "height_max": 67,
+            "remarks": "\u003Cp\u003EBeltran may have fled to southern Mexico.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EGerardo Beltran is wanted for alleged lewd and lascivious conduct with four female victims under the age of fourteen during 1991. Beltran held a position as Catholic priest in two Sacramento, California, parishes, which he used to gain the trust of the families of the victims. A local arrest warrant was issued for Beltran on February 10, 1992, by the Sacramento Municipal Court after he was charged with four counts of lewd and lascivious acts with a child under the age of fourteen.\u003C/p\u003E\r\n\u003Cp\u003E\u003Cbr /\u003E\u003Cbr /\u003EDuring the course of the investigation, Beltran fled, and on June 17, 2005, a federal warrant was issued for his arrest by the United States District Court, Eastern District of California, Sacramento, California, after he was charged with unlawful flight to avoid prosecution.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/683e345f-ea25-4df0-ba7e-21a7b3b1e01f"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "220 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "RENE F. RAMIREZ",
+            "complexion": null,
+            "place_of_birth": "Mexico",
+            "height_min": 68,
+            "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez",
+            "eyes_raw": "Dark Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 220,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "newyork"
+            ],
+            "status": "na",
+            "possible_states": null,
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/rene-f-ramirez-en-espanol.pdf/@@download/file/Rene F Ramirez EN ESPAÑOL.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "b987d98370b62a34a04edbdfc05b1e9b",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": "W642415848",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 220,
+            "scars_and_marks": null,
+            "modified": "2025-02-20T19:14:11+00:00",
+            "dates_of_birth_used": [
+                "October 19, 1982"
+            ],
+            "path": "/wanted/cac/rene-f.-ramirez",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": null,
+            "publication": "2012-03-21T07:00:00",
+            "nationality": "Mexican",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/rene-f.-ramirez/ramirez_r.jpg3.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Possession and Receipt of Child Pornography",
+            "reward_text": null,
+            "aliases": [
+                "Rene Ramirez",
+                "\"Tutzita\""
+            ],
+            "height_max": 68,
+            "remarks": "\u003Cp\u003ERamirez is known to wear eyeglasses. He speaks both English and Spanish. He has ties to The Bronx, New York and Mexico. Ramirez is skilled in the use of computers and may frequent social networking sites.\u003C/p\u003E",
+            "caution": "\u003Cp\u003ERene F. Ramirez is wanted for his alleged involvement in the possession and receipt of child pornography. From approximately June of 2007 through December of 2009, it is alleged that Ramirez was involved in the trafficking of child pornography, via computers, in the New York City area. A federal arrest warrant was issued for Ramirez in the United States District Court, Southern District of New York, on March 7, 2011, after he was charged with possession and receipt of child pornography.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/b987d98370b62a34a04edbdfc05b1e9b"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "190 pounds",
+            "hair_raw": "Brown",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "JEFFREY DEAN MCDANIEL",
+            "complexion": null,
+            "place_of_birth": null,
+            "height_min": 71,
+            "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 190,
+            "details": null,
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "McDaniel may be working in the computer industry."
+            ],
+            "field_offices": [
+                "sacramento"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-CA",
+                "US-ME",
+                "US-NV"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/jeffrey-dean-mcdaniel-en-espanol.pdf/@@download/file/Jeffrey Dean McDaniel EN ESPAÑOL.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "efa297509bd7a136a8a04e54f3c5fc50",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": "W071628428",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 190,
+            "scars_and_marks": "McDaniel has the following tattoos: several skulls, one wearing a helmet, and 3\" roses on vines on his chest;  a solar system design featuring multicolored planets from his wrist to his elbow on his left forearm;  an Egyptian pharaoh on his right bicep;  a door hinge on the inside of his right elbow;  old swastikas on both forearms (blacked over, but still visible); a dagger on his left wrist with \"S\" and \"J\" on either side of it;  lightning bolts on the fingers of his left hand;  a green wedding band on his left ring finger over the word \"Michelle\";  a dot on the web of his right hand;  \"X\" inside a circle on the inside of the web of his left hand;  a snake winding through a skull on his right calf;  \"Shelly\" above his right knee;  \"MBM\" in Old English letters above his left knee;  and the image of Fred Flintstone elsewhere on his body.",
+            "modified": "2025-02-20T19:14:11+00:00",
+            "dates_of_birth_used": [
+                "March 14, 1967"
+            ],
+            "path": "/wanted/cac/jeffrey-dean-mcdaniel",
+            "coordinates": [],
+            "hair": "brown",
+            "possible_countries": [
+                "MEX"
+            ],
+            "publication": "2010-08-27T16:10:00",
+            "nationality": null,
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd1.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd4.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd2.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd5.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd3.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd6.jpg/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg/@@images/image/large",
+                    "caption": "Jeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative.",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jeffrey-dean-mcdaniel/mcdaniel_jd7.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight To Avoid Prosecution - Sex Crimes, Child Custody Deprivation",
+            "reward_text": null,
+            "aliases": [
+                "Jeffrey Dean McDaniel, Jr.",
+                "Jeffrey D. McDaniel"
+            ],
+            "height_max": 71,
+            "remarks": "\u003Cp\u003EMcDaniel may be living in Mexico. He may be interested in tattoo artistry.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EJeffrey Dean McDaniel is wanted in Placer County, California, for his alleged repeated sexual contact with a minor female relative. The girl was thirteen years old at the time of the abuse. In September of 1998, McDaniel left the area with the girl and her whereabouts remained unknown until she was located in Mexico in September of 2000. According to the girl, McDaniel had traveled with her throughout California and Nevada before ending up in Mexico. McDaniel continued to sexually assault the girl, which resulted in a pregnancy. McDaniel's whereabouts remain unknown. On February 28, 2001, an arrest warrant was issued for McDaniel after he was charged with child custody deprivation. A federal arrest warrant was issued in May of 2001, and McDaniel was charged with unlawful flight to avoid prosecution.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/efa297509bd7a136a8a04e54f3c5fc50"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "140 pounds",
+            "hair_raw": "Blond/Brown",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "ERIK KRISTIAN MOLLER",
+            "complexion": null,
+            "place_of_birth": "Arcadia, California",
+            "height_min": 70,
+            "url": "https://www.fbi.gov/wanted/cac/erik-kristian-moller",
+            "eyes_raw": "Blue",
+            "age_min": null,
+            "build": null,
+            "weight_min": 140,
+            "details": null,
+            "race": "white",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Aviation fuel business"
+            ],
+            "field_offices": [
+                "losangeles"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-CA",
+                "US-FL"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/erik-kristian-moller-spanish-final.pdf/@@download/file/erik-kristian-moller.Spanish.final.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "7f506f977c061405fbf8a5e2d9d358ae",
+            "race_raw": "White",
+            "legat_names": null,
+            "ncic": "W234136407",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 140,
+            "scars_and_marks": "Moller has a 3-inch birthmark on his lower back. He has a tattoo of a falling angel on an upper arm; and a tattoo of an Indian sitting on a horse on an upper arm. He has a scar on his upper left arm.",
+            "modified": "2025-02-20T19:14:09+00:00",
+            "dates_of_birth_used": [
+                "June 24, 1967"
+            ],
+            "path": "/wanted/cac/erik-kristian-moller",
+            "coordinates": [],
+            "hair": "brown",
+            "possible_countries": [
+                "DNK",
+                "DMA",
+                "DOM",
+                "USA"
+            ],
+            "publication": "2010-08-27T20:10:00",
+            "nationality": "American",
+            "eyes": "blue",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/@@images/image/large",
+                    "caption": "Photograph taken in 2001",
+                    "thumb": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/molle_ekr2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/molle_ekr2.jpg/@@images/image/large",
+                    "caption": "",
+                    "thumb": "https://www.fbi.gov/wanted/cac/erik-kristian-moller/molle_ekr2.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": null,
+            "description": "Unlawful Flight To Avoid Prosecution -  Failure To Appear (Lewd Act Upon a Child - 2 Counts)",
+            "reward_text": null,
+            "aliases": null,
+            "height_max": 70,
+            "remarks": "\u003Cp\u003EMoller may have traveled from Miami, Florida to Puerto Plata, Dominican Republic, in 2003. Moller is also known to have ties to Denmark.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EErik Kristian Moller, a convicted child molester, is wanted for failing to appear for sentencing in San Luis Obispo, California, in 2003. Between the years of 1997 and 2000, Moller was entrusted to care for his female victim on almost a weekly basis while she was ages 10 through 14. He gave the girl drugs and/or alcohol prior to the molestations. On December 18, 2002, Moller was convicted of two counts of lewd act upon a child. Moller was released on bail until sentencing. On March 18, 2003, Moller failed to appear for sentencing related to the lewd act upon a child conviction. Moller was sentenced in absentia to ten years in state prison. On March 19, 2003, a felony bench warrant was issued for Moller after he was charged with failure to appear. On April 24, 2003, Moller was charged federally with unlawful flight to avoid prosecution by the United States District Court, Central District of California, and a federal warrant was issued for his arrest.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/7f506f977c061405fbf8a5e2d9d358ae"
+        },
+        {
+            "poster_classification": "crimes-against-children",
+            "reward_max": 0,
+            "weight": "150 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 0,
+            "title": "JOSE ANTONIO BARROSO",
+            "complexion": null,
+            "place_of_birth": "Mexico",
+            "height_min": 67,
+            "url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": null,
+            "weight_min": 150,
+            "details": null,
+            "race": "hispanic",
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": [
+                "Unknown"
+            ],
+            "field_offices": [
+                "littlerock"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-AR",
+                "US-KS"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/download.pdf",
+                    "name": "English"
+                },
+                {
+                    "url": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso1spanish.pdf/@@download/file/barroso1Spanish.pdf",
+                    "name": "EN ESPAOL"
+                }
+            ],
+            "uid": "f03b9a09ff06f2ea36d26591898a7efe",
+            "race_raw": "White (Hispanic)",
+            "legat_names": null,
+            "ncic": "W047103701",
+            "sex": "Male",
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "languages": null,
+            "weight_max": 150,
+            "scars_and_marks": "Barroso has a scar on his left cheek near his mouth.",
+            "modified": "2025-02-20T19:14:09+00:00",
+            "dates_of_birth_used": [
+                "January 10, 1973"
+            ],
+            "path": "/wanted/cac/jose-antonio-barroso",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": [
+                "MEX",
+                "USA"
+            ],
+            "publication": "2010-08-27T17:55:00",
+            "nationality": "Mexican",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg",
+                    "large": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/large",
+                    "caption": "Photograph taken circa 2021",
+                    "thumb": "https://www.fbi.gov/wanted/cac/jose-antonio-barroso/barroso2.jpg/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED DANGEROUS AND AN ESCAPE RISK",
+            "description": "Unlawful Flight To Avoid Prosecution - Rape",
+            "reward_text": null,
+            "aliases": [
+                "James Von Kirk",
+                "Juan Antonio Barroso",
+                "Jose A. Barroso",
+                "Jose A. Barroso Martinez"
+            ],
+            "height_max": 67,
+            "remarks": "\u003Cp\u003EBarroso is believed to be in the Ensenada, Baja California, Mexico, area.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EJose Antonio Barroso is wanted for his alleged involvement in a series of rapes involving a young girl in Fort Smith, Arkansas.  The rapes allegedly occurred from the time the victim was five years old until she was eleven years old when it was reported.  A state arrest warrant was issued by the District Court of Sebastian County, Arkansas, on November 30, 2004, after Barroso was charged with rape. Barroso was charged federally with unlawful flight to avoid prosecution by the United States District Court, Western District of Arkansas, and a federal arrest warrant was issued on February 1, 2005.\u003C/p\u003E\r\n\u003Cp\u003E \u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/f03b9a09ff06f2ea36d26591898a7efe"
+        },
+        {
+            "poster_classification": "terrorist",
+            "reward_max": 4999999,
+            "weight": "145 pounds",
+            "hair_raw": "Black",
+            "age_range": null,
+            "person_classification": "Main",
+            "reward_min": 1000000,
+            "title": "AHMAD IBRAHIM AL-MUGHASSIL",
+            "complexion": "Olive",
+            "place_of_birth": "Qatif - Bab Al Shamal, Saudi Arabia",
+            "height_min": 64,
+            "url": "https://www.fbi.gov/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil",
+            "eyes_raw": "Brown",
+            "age_min": null,
+            "build": "Unknown",
+            "weight_min": 145,
+            "details": null,
+            "race": null,
+            "locations": null,
+            "suspects": null,
+            "additional_information": null,
+            "occupations": null,
+            "field_offices": [
+                "washingtondc"
+            ],
+            "status": "na",
+            "possible_states": [
+                "US-VA"
+            ],
+            "files": [
+                {
+                    "url": "https://www.fbi.gov/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil/download.pdf",
+                    "name": "English"
+                }
+            ],
+            "uid": "6c374827b4c20fa343972642314774d9",
+            "race_raw": null,
+            "legat_names": null,
+            "ncic": null,
+            "sex": "Male",
+            "subjects": [
+                "Most Wanted Terrorists"
+            ],
+            "languages": [
+                "Arabic",
+                "Farsi"
+            ],
+            "weight_max": 145,
+            "scars_and_marks": "None known",
+            "modified": "2025-02-20T19:14:02+00:00",
+            "dates_of_birth_used": [
+                "June 26, 1967"
+            ],
+            "path": "/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil",
+            "coordinates": [],
+            "hair": "black",
+            "possible_countries": [
+                "SAU"
+            ],
+            "publication": "2010-07-26T10:10:00",
+            "nationality": "Saudi Arabian",
+            "eyes": "brown",
+            "age_max": null,
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/wanted_terrorists/ahmad-ibrahim-al-mughassil/@@images/image/thumb"
+                }
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "description": "Conspiracy to Kill U.S. Nationals; Conspiracy to Murder U.S. Employees; Conspiracy to Use Weapons of Mass Destruction Against U.S. Nationals; Conspiracy to Destroy Property of the U.S.; Conspiracy to Attack National Defense Utilities; Bombing Resulting in Death; Use of Weapons of Mass Destruction Against U.S. Nationals; Murder While Using Destructive Device During a Crime of Violence; Murder of Federal Employees; Attempted Murder of Federal Employees",
+            "reward_text": "The Rewards For Justice Program, United States Department of State, is offering a reward of up to $5 million for information leading directly to the apprehension or conviction of Ahmad Ibrahim Al-Mughassil.",
+            "aliases": [
+                "Abu Omran"
+            ],
+            "height_max": 64,
+            "remarks": "\u003Cp\u003EAl-Mughassil is the alleged head of the \"military wing\" of the terrorist organization, Saudi Hizballah.\u003C/p\u003E",
+            "caution": "\u003Cp\u003EAhmad Ibrahim Al-Mughassil has been indicted in the Eastern District of Virginia for the June 25, 1996, bombing of the Khobar Towers military housing complex in Dhahran, Kingdom of Saudi Arabia.\u003C/p\u003E",
+            "pathId": "https://api.fbi.gov/@wanted-person/6c374827b4c20fa343972642314774d9"
+        }
+    ],
+    "page": 1
+}
