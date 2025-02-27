@@ -1,4 +1,4 @@
-#🔪 Serial Block Website
+# 🔪 Serial Block Website
 
 ![Serial Block Logo](screenShot/screenshot(1).png)
 ![Serial Block Logo](screenShot/screenshot(2).png)
@@ -6,7 +6,7 @@
 
 A modern, single-page website built with clean design and optimized for performance. Serial Block offers a streamlined user experience with a focus on simplicity and speed.
 ## Demo link
-Live : [Demo link](cipher-soul.github.io/Serial-BlogPage/)
+Live : [cipher-soul.github.io/Serial-BlogPage/](https://cipher-soul.github.io/Serial-BlogPage/)
 
 ## Features
 
